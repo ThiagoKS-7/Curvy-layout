@@ -1,8 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img src="https://github.com/ThiagoKS-7/Curvy-layout/assets/83460816/397a18af-f349-4265-bf50-dac0db38141a" alt="Project logo"></a>
 </p>
-
 <h3 align="center">Fireship IO - Curvaceous homepage layout</h3>
 
 <div align="center">
